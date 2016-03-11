@@ -1,0 +1,52 @@
+.navbar {
+	border-radius: 0px;
+}
+
+.container {
+	box-shadow: 0 2px 4px rgba(0,0,0,0.2),0 -1px 0px rgba(0,0,0,0.02);
+	padding: 30px;
+	background: white;
+}
+
+body {
+	background: #eee;
+}
+
+input#searchInput {
+    height: 50px;
+    font-size: 18px;
+}
+
+.input-group-addon.btn-search {
+    background: #337ab7;
+    color: white;
+    border-color: #337AB7;
+    min-width: 50px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.search-result {
+    margin-top: 20px;
+    padding-top: 30px;
+}
+
+.search-result .img {
+    height: 200px;
+    padding: 10px;
+}
+
+.search-result img.img-thumbnail {
+    height: 100%;
+    width: 100%;
+    padding: 6px;
+    cursor: pointer;
+}
+
+.searching {
+    display: none;
+}
+
+.choice-language select {
+    height: 25px;
+}
