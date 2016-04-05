@@ -1,0 +1,992 @@
+[
+  {
+    "id": 103000001,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "1) chủ đề âm nhạc và hội họa",
+    "total": 49,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000002,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "2) ẩm thực đồ ăn khô và bánh kẹo",
+    "total": 34,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000003,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "3) ẩm thực đồ uống và vật dụng trong ăn uống",
+    "total": 63,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000004,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "4) ẩm thực gia vị hay dùng trong chế biến thức ăn",
+    "total": 57,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000005,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "5) ẩm thực món tráng miệng món thịt đồ hải sản",
+    "total": 73,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000006,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "6) ẩm thực những loại rau thường dùng",
+    "total": 45,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000007,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "7) khoa trong bệnh viện và các loại thuốc phần một",
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000008,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "8) khoa trong bệnh viện và các loại thuốc phần hai",
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000009,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "9) những cặp từ trái nghĩa nhau phần một",
+    "total": 51,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000010,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "10) những cặp từ trái nghĩa nhau phần hai",
+    "total": 52,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000011,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "11) chủ đề thị trường chứng khoán",
+    "total": 84,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000012,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "12) những từ ngữ cần thiết khi cư trú phần một",
+    "total": 97,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000013,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "13) những từ ngữ cần thiết khi cư trú phần hai",
+    "total": 96,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000014,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "14) chủ đề xuất nhập khẩu",
+    "total": 74,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000015,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "15) địa lí và thiên văn với những cung hoàng đạo",
+    "total": 56,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000016,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "16) chủ đề động từ thường dùng phần một",
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000017,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "17) chủ đề động từ thường dùng phần hai",
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000018,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "18) chủ đề động từ thường dùng phần ba",
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000019,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "19) chủ đề động từ thường dùng phần bốn",
+    "total": 49,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000020,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "20) chủ đề động từ thường dùng phần năm",
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000021,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "21) chủ đề động từ thường dùng phần sáu",
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000022,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "22) chủ đề động từ thường dùng phần bảy",
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000023,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "23) chủ đề động từ thường dùng phần tám",
+    "total": 52,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000024,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "24) chủ đề động từ thường dùng phần chín",
+    "total": 52,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000025,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "25) giao thông vận tải đường bộ",
+    "total": 63,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000026,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "26) giao thông vận tải đường hàng không",
+    "total": 59,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000027,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "27) giao thông vận tải đường sắt",
+    "total": 49,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000028,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "28) giao thông vận tải đường thủy phần một ",
+    "total": 42,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000029,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "29) giao thông vận tải đường thủy phần hai",
+    "total": 42,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000030,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "30) chủ đề khách sạn nhà nghỉ",
+    "total": 43,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000031,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "31) ký hiệu biển báo giao thông phần một",
+    "total": 42,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000032,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "32) ký hiệu biển báo giao thông phần hai",
+    "total": 42,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000033,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "33) chủ đề những loại trái cây",
+    "total": 58,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000034,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "34) chủ đề quan hệ gia đình và họ hàng",
+    "total": 63,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000035,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "35) chủ đề nghề nghiệp phần một",
+    "total": 44,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000036,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "36) chủ đề nghề nghiệp phần hai",
+    "total": 45,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000037,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "37) chủ đề vật dụng trong phòng tắm",
+    "total": 39,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000038,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "38) chủ đề số đếm và số thứ tự",
+    "total": 59,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000039,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "39) tên một số quốc gia trên thế giới",
+    "total": 38,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000040,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "40) chủ đề những tính từ thông dụng",
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000041,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "41) khi làm việc tại công ty hàn quốc phần một",
+    "total": 60,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000042,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "42) khi làm việc tại công ty hàn quốc phần hai",
+    "total": 60,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000043,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "43) chủ đề từ tượng thanh miêu tả âm thanh",
+    "total": 25,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000044,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "44) những từ thông dụng trong giới thiệu chào hỏi",
+    "total": 27,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000045,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "45) chủ đề phó từ, giới từ, liên từ và sở hữu cách",
+    "total": 45,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000046,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "46) chủ đề những địa điểm phổ biến",
+    "total": 70,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000047,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "47) những từ ngữ ngành cơ khí phần một",
+    "total": 66,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000048,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "48) những từ ngữ ngành cơ khí phần hai",
+    "total": 66,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000049,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "49) chủ đề danh từ và đại từ thường dùng",
+    "total": 57,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000050,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "50) chủ đề hôn nhân và giới tính phần một",
+    "total": 57,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000051,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "51) chủ đề hôn nhân và giới tính phần hai",
+    "total": 56,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000052,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "52) những từ hay dùng khi sử dụng máy tính",
+    "total": 48,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000053,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "53) chủ đề những ngày lê kỷ niệm của người hàn",
+    "total": 32,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000054,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "54) nguyên vật liệu câu thành nên ngôi nhà",
+    "total": 72,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000055,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "55) những từ trong nông nghiệp phần một",
+    "total": 48,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000056,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "56) những từ trong nông nghiệp phần hai",
+    "total": 48,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000057,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "57) những từ trong nông nghiệp phần ba",
+    "total": 48,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000058,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "58) chủ đề từ thường gặp ở hiệu cát tóc",
+    "total": 53,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000059,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "59) chủ đề những linh kiện phụ tùng ô tô",
+    "total": 59,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000060,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "60) từ thường dùng trong sinh hoạt hàng ngày",
+    "total": 52,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000061,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "61) những từ ngữ hay dung khi ở thành thị phần một",
+    "total": 42,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000062,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "62) những từ ngữ hay dung khi ở thành thị phần hai",
+    "total": 40,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000063,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "63) chủ đề từ ngữ văn phòng phần một",
+    "total": 41,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000064,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "64) chủ đề từ ngữ ăn phòng phần hai",
+    "total": 40,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000065,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "65) chủ đề những từ ngữ văn phòng phẩm",
+    "total": 44,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000066,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "66) chủ đề một số loại côn trùng sâu bọ",
+    "total": 32,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000067,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "67) chủ đề về những vật dụng đồ dùng trong nhà bếp",
+    "total": 43,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000068,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "68) chủ đề những vật dụng trong phòng ăn",
+    "total": 33,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000069,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "69) chủ đề vê những thứ trong phòng em bé",
+    "total": 27,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000070,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "70) chủ đề vật dụng ở phòng khách",
+    "total": 30,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000071,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "71) chủ đề những vật dụng trong phòng ngủ",
+    "total": 31,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000072,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "72) những từ ngữ biểu hiện cảm xúc từ biểu cảm",
+    "total": 70,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000073,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "73) những từ hay dùng khi ở bưu điện",
+    "total": 35,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000074,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "74) những từ ngữ sử dụng khi đi du lịch phần một",
+    "total": 57,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000075,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "75) những từ ngữ sử dụng khi đi du lịch phần hai",
+    "total": 55,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000076,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "76) những từ trong giáo dục phần một",
+    "total": 51,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000077,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "77) những từ trong giáo dục phần hai",
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000078,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "78) chủ đề những từ trong giáo dục phần ba",
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000079,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "79) những từ ngữ về khí hậu và thời tiết",
+    "total": 56,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000080,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "80) chủ đề những từ ngữ dùng chỉ màu sắc",
+    "total": 29,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000081,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "81) chủ đề những từ chỉ một số loại bệnh",
+    "total": 28,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000082,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "82) những từ ngữ chỉ các môn thể thao",
+    "total": 52,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000083,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "83) những từ ngữ khi mua sắm phần một",
+    "total": 41,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000084,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "84) những từ ngữ khi mua sắm phần hai",
+    "total": 39,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000085,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "85) tên một số loài động vật phần một",
+    "total": 41,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000086,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "86) tên một số loài động vật phần hai",
+    "total": 40,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000087,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "87) những từ ngữ chỉ những loài hoa",
+    "total": 48,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000088,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "88) những từ ngữ hay nói đến trong nấu ăn",
+    "total": 44,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000089,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "89) những từ ngữ nói về thiên nhiên phần một",
+    "total": 43,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000090,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "90) những từ ngữ nói về thiên nhiên phần hai",
+    "total": 42,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000091,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "91) những từ ngữ chỉ thời gian phần một",
+    "total": 48,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000092,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "92) những từ ngữ chỉ thời gian phần hai",
+    "total": 48,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000093,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "93) những từ chỉ tính cách cá nhân",
+    "total": 68,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000094,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "94) những từ ngữ dùng trong tôn giáo",
+    "total": 33,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000095,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "95) những loại vật dụng trong gia đình phần một",
+    "total": 47,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000096,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "96) những loại vật dụng trong gia đình phần hai",
+    "total": 48,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000097,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "97) những loại vật dụng trong gia đình phần ba",
+    "total": 48,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000098,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "98) những từ ngữ tình cảm và tình yêu phần một",
+    "total": 65,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000099,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "99) những từ ngữ tình cảm và tình yêu phần hai",
+    "total": 65,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000100,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "100) chủ đề những tình huống ở ngân hàng",
+    "total": 42,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000101,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "101) chủ đề những từ tình huống ở sân bay",
+    "total": 35,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000102,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "102) những từ ngữ chỉ trang thiết bị trường hoc",
+    "total": 33,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000103,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "103) những từ dùng ở trường học và trong học tập",
+    "total": 62,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000104,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "104) những từ ngữ chỉ bộ phân bên trong cơ thể",
+    "total": 67,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000105,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "105) những bộ phận bên ngoài cơ thể phần một",
+    "total": 47,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000106,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "106) những bộ phận bên ngoài cơ thể phần hai",
+    "total": 46,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000107,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "107) những từ ngữ nói về hệ thống cơ quan nhà nước",
+    "total": 67,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000108,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "108) những từ ngữ nói về hình dạng và đường kẻ",
+    "total": 45,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000109,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "109) mỹ phẩm và đồ trang sức phần một",
+    "total": 56,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000110,
+    "id_course": 103000001,
+    "name": null,
+    "mean": "110) mỹ phẩm và đồ trang sức phần hai",
+    "total": 56,
+    "num_word": null,
+    "time_date": null
+  }
+]

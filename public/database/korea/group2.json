@@ -1,0 +1,416 @@
+[
+  {
+    "id": 103000111,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "1) những từ chuyên ngành ẩm thực phần một",
+    "total": 92,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000112,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "2) những từ chuyên ngành ẩm thực phần hai",
+    "total": 92,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000113,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "3) những từ chuyên ngành ẩm thực phần ba",
+    "total": 92,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000114,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "4) những từ chuyên ngành ẩm thực phần bốn",
+    "total": 92,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000115,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "5) những từ chuyên ngành ẩm thực phần năm",
+    "total": 89,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000116,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "6) chuyên ngành cơ thể và sinh lý phần một",
+    "total": 96,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000117,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "7) chuyên ngành cơ thể và sinh lý phần hai",
+    "total": 96,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000118,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "8) chuyên ngành cơ thể và sinh lý phần ba",
+    "total": 97,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000119,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "9) ngành công nghiệp và nông nghiệp phần một",
+    "total": 87,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000120,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "10) ngành công nghiệp và nông nghiệp phần hai",
+    "total": 87,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000121,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "11) ngành công nghiệp và nông nghiệp phần ba",
+    "total": 87,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000122,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "12) ngành công nghiệp và nông nghiệp phần bốn",
+    "total": 87,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000123,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "13) chuyên ngành luật và chật tự phần một",
+    "total": 83,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000124,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "14) chuyên ngành luật và chật tự phần hai",
+    "total": 83,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000125,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "15) chuyên ngành luật và chật tự phần ba",
+    "total": 83,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000126,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "16) chuyên ngành luật và chật tự phần bốn",
+    "total": 83,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000127,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "17) chuyên ngành may mặc phần một",
+    "total": 97,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000128,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "18) chuyên ngành may mặc phần hai",
+    "total": 97,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000129,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "19) chuyên ngành may mặc phần ba",
+    "total": 97,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000130,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "20) chuyên ngành may mặc phần bốn",
+    "total": 97,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000131,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "21) chuyên ngành may mặc phần năm",
+    "total": 97,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000132,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "22) chuyên ngành may mặc phần sáu",
+    "total": 97,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000133,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "23) chuyên ngành may mặc phần bảy",
+    "total": 97,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000134,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "24) chuyên ngành may mặc phần tám",
+    "total": 97,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000135,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "25) chuyên ngành may mặc phần chín",
+    "total": 97,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000136,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "26) chuyên ngành may mặc phần mười",
+    "total": 97,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000137,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "27) chuyên ngành may mặc phần mười một",
+    "total": 97,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000138,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "28) chủ đề chuyên ngành môi trường phần một",
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000139,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "29) chủ đề chuyên ngành môi trường phần hai",
+    "total": 51,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000140,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "30) chủ đề chuyên ngành nghệ thuật",
+    "total": 78,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000141,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "31) chuyên ngành thể dục thể thao phần một",
+    "total": 74,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000142,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "32) chuyên ngành thể dục thể thao phần hai",
+    "total": 74,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000143,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "33) thời trang và trang phục phần một",
+    "total": 93,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000144,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "34) thời trang và trang phục phần hai",
+    "total": 92,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000145,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "35) thời trang và trang phục phần ba",
+    "total": 93,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000146,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "36) thông tin và truyền thông phần một",
+    "total": 60,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000147,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "37) thông tin và truyền thông phần hai",
+    "total": 60,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000148,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "38) bệnh và phương pháp chị liệu phần một",
+    "total": 98,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000149,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "39) bệnh và phương pháp trị liệu phần hai",
+    "total": 99,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000150,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "40) bệnh và phương pháp trị liệu phần ba",
+    "total": 98,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000151,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "41) bệnh và phương pháp trị liệu phần bốn",
+    "total": 98,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000152,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "42) chuyên ngành doanh nghiệp phần một",
+    "total": 81,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000153,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "43) chuyên ngành doanh nghiệp phần hai",
+    "total": 81,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000154,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "44) chuyên ngành quan hệ xã hội phần một",
+    "total": 93,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000155,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "45) chuyên ngành quan hệ xã hội phần hai",
+    "total": 92,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 103000156,
+    "id_course": 103000002,
+    "name": null,
+    "mean": "46) chuyên ngành quan hệ xã hội phần ba",
+    "total": 93,
+    "num_word": null,
+    "time_date": null
+  }
+]

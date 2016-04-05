@@ -1,0 +1,1523 @@
+[
+  {
+    "name": "54 Dân tộc",
+    "id": 102000001,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 53,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Âm nhạc 1",
+    "id": 102000002,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 71,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Âm nhạc 2",
+    "id": 102000003,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 90,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bánh",
+    "id": 102000004,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 56,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bảo hiểm",
+    "id": 102000005,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 66,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bất động sản",
+    "id": 102000006,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 142,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bến tàu thủy",
+    "id": 102000007,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 216,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bến xe",
+    "id": 102000008,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 127,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bệnh tật",
+    "id": 102000009,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 189,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bóng chuyền",
+    "id": 102000010,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 65,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bóng đá",
+    "id": 102000011,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 132,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bóng rổ",
+    "id": 102000012,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 108,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Buôn quần áo",
+    "id": 102000013,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 26,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bưu điện",
+    "id": 102000014,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 61,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Các bệnh về mắt",
+    "id": 102000015,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 34,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Các Đồ dùng điện khác",
+    "id": 102000016,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 78,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Các loài chim",
+    "id": 102000017,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 192,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Các loại Đồ uống",
+    "id": 102000018,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 74,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Các loại Gia vị",
+    "id": 102000019,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 33,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Các loại Nấm",
+    "id": 102000020,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 25,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Các loài thú vật",
+    "id": 102000021,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 213,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Cao su và nhựa",
+    "id": 102000022,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 46,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Cắt tóc",
+    "id": 102000023,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 106,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Cầu lông",
+    "id": 102000024,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 68,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Chế phẩm từ đậu",
+    "id": 102000025,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Chế phẩm từ đậu",
+    "id": 102000026,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 13,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Chứng khoán",
+    "id": 102000027,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 37,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Chứng khoán và Cổ phiếu",
+    "id": 102000028,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 120,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Chụp ảnh",
+    "id": 102000029,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 31,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Chụp ảnh",
+    "id": 102000030,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 72,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Cơ cấu quản lý nhà máy",
+    "id": 102000031,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 138,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Cơ thể",
+    "id": 102000032,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 31,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Cơ thể 1",
+    "id": 102000033,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 61,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Cơ thể 2",
+    "id": 102000034,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 109,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Côn trùng 1",
+    "id": 102000035,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Côn trùng 2",
+    "id": 102000036,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 58,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Con vật",
+    "id": 102000037,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 24,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Công an",
+    "id": 102000038,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 161,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Công nghiệp",
+    "id": 102000039,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 214,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Công ty du lịch",
+    "id": 102000040,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 141,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Công ty du lịch",
+    "id": 102000041,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 138,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Công ty Ngoại thương",
+    "id": 102000042,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 233,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Công ty Thương mại",
+    "id": 102000043,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 93,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đài Truyền hình và Đài phát thanh",
+    "id": 102000044,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 179,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Dầu khí - Mỏ than",
+    "id": 102000045,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 468,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Dầu mỏ",
+    "id": 102000046,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 24,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Dịch vụ Khách sạn",
+    "id": 102000047,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 29,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Điện",
+    "id": 102000048,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 48,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Điện thoại di động",
+    "id": 102000049,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đồ đạc trong nhà",
+    "id": 102000051,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 291,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đồ gia dụng",
+    "id": 102000052,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đồ uống 2",
+    "id": 102000054,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 76,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "CV Tiếng Trung và Đơn xin việc Tiếng Trung",
+    "id": 102000055,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 100,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đồng hồ",
+    "id": 102000056,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 78,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đồng hồ",
+    "id": 102000058,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 75,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Động vật",
+    "id": 102000059,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 31,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Động vật dưới nước",
+    "id": 102000060,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 167,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Du lịch",
+    "id": 102000061,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 71,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Dụng cụ chụp ảnh",
+    "id": 102000062,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 82,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Dụng cụ làm đẹp",
+    "id": 102000063,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 14,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đường phố Hà Nội",
+    "id": 102000064,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 30,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Gạo",
+    "id": 102000066,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 13,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Gia cầm và Trứng",
+    "id": 102000067,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 21,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Gia đình",
+    "id": 102000068,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Gia vị",
+    "id": 102000070,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 33,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Giày",
+    "id": 102000071,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 93,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Giày dép",
+    "id": 102000072,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 54,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Gỗ",
+    "id": 102000073,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 110,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "GOLF",
+    "id": 102000074,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 86,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hải quan",
+    "id": 102000075,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 116,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hiệu cắt tóc",
+    "id": 102000076,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 105,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hoa quả",
+    "id": 102000079,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 185,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hoa tươi",
+    "id": 102000080,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 138,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hợp đồng mua bán hàng hóa",
+    "id": 102000081,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 105,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Internet",
+    "id": 102000082,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 133,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Kế toán",
+    "id": 102000083,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 156,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Kế toán",
+    "id": 102000084,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 358,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Kẹo",
+    "id": 102000085,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 28,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Khách sạn",
+    "id": 102000086,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 47,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Kiến trúc và xây dựng",
+    "id": 102000088,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 32,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Kỹ thuật",
+    "id": 102000089,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 69,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Lễ cưới",
+    "id": 102000090,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 149,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Linh kiện máy móc",
+    "id": 102000092,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 52,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Linh kiện máy tính",
+    "id": 102000093,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 224,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Loại hình công nghiệp",
+    "id": 102000094,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 73,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Luật",
+    "id": 102000095,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 23,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Màu sắc",
+    "id": 102000096,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 113,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Máy ảnh",
+    "id": 102000097,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 121,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Máy bay",
+    "id": 102000098,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 146,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Máy điều hòa",
+    "id": 102000099,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 31,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Máy giặt",
+    "id": 102000100,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 9,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Máy giặt Tủ lạnh Điều hòa",
+    "id": 102000101,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 56,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "May mặc",
+    "id": 102000102,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 64,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Máy may",
+    "id": 102000103,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 64,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Máy móc thông dụng",
+    "id": 102000104,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 34,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Món Ăn sáng",
+    "id": 102000105,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Mũ",
+    "id": 102000106,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 64,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Mỹ phẩm",
+    "id": 102000107,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Mỹ phẩm và gia dụng",
+    "id": 102000108,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 100,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nấm",
+    "id": 102000109,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 24,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Ngân hàng",
+    "id": 102000110,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 111,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Ngành khách sạn",
+    "id": 102000111,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 49,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nghề nghiệp",
+    "id": 102000112,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 74,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nghỉ phép",
+    "id": 102000113,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nhà bếp",
+    "id": 102000114,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 187,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nhà ga tàu hỏa",
+    "id": 102000115,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 171,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nhạc cụ",
+    "id": 102000116,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 106,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nhạc sỹ",
+    "id": 102000117,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 34,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nhãn hàng nổi tiếng",
+    "id": 102000118,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 26,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nhập cư",
+    "id": 102000119,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 43,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nội ngoại thất",
+    "id": 102000120,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 74,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nơi vui chơi giải trí",
+    "id": 102000121,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 178,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Phát thanh truyền hình",
+    "id": 102000122,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 176,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Phim ảnh",
+    "id": 102000123,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 224,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Phòng cháy chữa cháy",
+    "id": 102000124,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 89,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Phòng ngủ",
+    "id": 102000125,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 52,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Phòng tắm",
+    "id": 102000126,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 65,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Phòng tiệc",
+    "id": 102000127,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 95,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Photoshop",
+    "id": 102000128,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 54,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Phụ kiện Quần áo",
+    "id": 102000129,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 22,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quần áo",
+    "id": 102000130,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 78,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quần áo Nam",
+    "id": 102000131,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quần áo nữ",
+    "id": 102000132,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 143,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quần áo trẻ em",
+    "id": 102000133,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quận Huyện Hà Nội",
+    "id": 102000134,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 27,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Rạp hát",
+    "id": 102000135,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 185,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Rau củ",
+    "id": 102000136,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 109,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Rau tươi",
+    "id": 102000137,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 91,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Sân bay",
+    "id": 102000138,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 141,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Sản phẩm chăm sóc da",
+    "id": 102000139,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 13,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Sản phẩm làm đẹp",
+    "id": 102000140,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Sản phẩm nổi tiếng",
+    "id": 102000141,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 60,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tài chính ngân hàng",
+    "id": 102000142,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 181,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tên các Tỉnh và Thành phố Việt Nam",
+    "id": 102000144,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 61,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tennis",
+    "id": 102000145,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 87,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thể loại phim",
+    "id": 102000146,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thể thao dưới nươc",
+    "id": 102000147,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 91,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thiết bị công nghiệp",
+    "id": 102000148,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 37,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thiết bị điện",
+    "id": 102000150,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 393,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thiết bị máy tính",
+    "id": 102000151,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 46,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thịt",
+    "id": 102000152,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 37,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thực phẩm 1",
+    "id": 102000156,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 86,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thực phẩm 2",
+    "id": 102000157,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 204,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thực phẩm khác",
+    "id": 102000158,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 104,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thuế Hải quan",
+    "id": 102000159,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 125,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thuê nhà",
+    "id": 102000160,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thuốc",
+    "id": 102000161,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 62,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thuốc Đông Y",
+    "id": 102000162,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 55,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thương hiệu nổi tiếng",
+    "id": 102000163,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 93,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thương mại",
+    "id": 102000164,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 546,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thủy sản",
+    "id": 102000165,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 59,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tính cách",
+    "id": 102000166,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tivi",
+    "id": 102000167,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 36,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tội phạm",
+    "id": 102000168,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 95,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Trái phiếu",
+    "id": 102000175,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 23,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Trang phục",
+    "id": 102000176,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 32,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Trường lớp",
+    "id": 102000177,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 40,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tủ lạnh",
+    "id": 102000178,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 13,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Vải",
+    "id": 102000180,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 110,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Văn phòng phẩm",
+    "id": 102000181,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 40,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Văn phòng phẩm",
+    "id": 102000182,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 119,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Vật liệu xây dựng",
+    "id": 102000183,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 127,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Vật liệu Xây dựng",
+    "id": 102000184,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 128,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Video Cassette màu",
+    "id": 102000185,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 39,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Vũ trường",
+    "id": 102000187,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 54,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Web",
+    "id": 102000188,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 116,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Xây dựng",
+    "id": 102000189,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 934,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Xuất Nhập khẩu",
+    "id": 102000190,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 104,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Y học",
+    "id": 102000191,
+    "id_course": 102000001,
+    "mean": null,
+    "total": 108,
+    "num_word": null,
+    "time_date": null
+  }
+]

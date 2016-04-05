@@ -1,0 +1,371 @@
+[
+  {
+    "id": 104000133,
+    "id_course": 104000004,
+    "name": "第1週 (1) - キッチンで、リビングで",
+    "mean": null,
+    "total": 47,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000134,
+    "id_course": 104000004,
+    "name": "第1週 (2) - 料理をしましょう①",
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000135,
+    "id_course": 104000004,
+    "name": "第1週 (3) - 料理をしましょう②",
+    "mean": null,
+    "total": 36,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000136,
+    "id_course": 104000004,
+    "name": "第1週 (4) - 掃除をしましょう",
+    "mean": null,
+    "total": 38,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000137,
+    "id_course": 104000004,
+    "name": "第1週 (5) - 洗濯をしましょう",
+    "mean": null,
+    "total": 23,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000138,
+    "id_course": 104000004,
+    "name": "第1週 (6) - 子供やペットの世話をしましょう",
+    "mean": null,
+    "total": 2,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000139,
+    "id_course": 104000004,
+    "name": "第1週 (7) - 実戦問題",
+    "mean": null,
+    "total": 0,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000140,
+    "id_course": 104000004,
+    "name": "第2週 (1) - 計画を立てましょう",
+    "mean": null,
+    "total": 48,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000141,
+    "id_course": 104000004,
+    "name": "第2週 (2) - 電車に乗りましょう①",
+    "mean": null,
+    "total": 28,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000142,
+    "id_course": 104000004,
+    "name": "第2週 (3) - 電車に乗りましょう②",
+    "mean": null,
+    "total": 31,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000143,
+    "id_course": 104000004,
+    "name": "第2週 (4) - 車に乗りましょう①",
+    "mean": null,
+    "total": 30,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000144,
+    "id_course": 104000004,
+    "name": "第2週 (5) - 車に乗りましょう②",
+    "mean": null,
+    "total": 35,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000145,
+    "id_course": 104000004,
+    "name": "第2週 (6) - 用事を済ませましょう",
+    "mean": null,
+    "total": 36,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000146,
+    "id_course": 104000004,
+    "name": "第2週 (7) - 実戦問題",
+    "mean": null,
+    "total": 0,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000147,
+    "id_course": 104000004,
+    "name": "第3週 (1) - デートにさそいましょう",
+    "mean": null,
+    "total": 36,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000148,
+    "id_course": 104000004,
+    "name": "第3週 (2) - したくをしましょう",
+    "mean": null,
+    "total": 38,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000149,
+    "id_course": 104000004,
+    "name": "第3週 (3) - 買い物をしましょう",
+    "mean": null,
+    "total": 36,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000150,
+    "id_course": 104000004,
+    "name": "第3週 (4) - 食事に行きましょう",
+    "mean": null,
+    "total": 35,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000151,
+    "id_course": 104000004,
+    "name": "第3週 (5) - お酒を飲みましょう",
+    "mean": null,
+    "total": 36,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000152,
+    "id_course": 104000004,
+    "name": "第3週 (6) - お金を払いましょう",
+    "mean": null,
+    "total": 30,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000153,
+    "id_course": 104000004,
+    "name": "第3週 (7) - 実戦問題",
+    "mean": null,
+    "total": 0,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000154,
+    "id_course": 104000004,
+    "name": "第4週 (1) - 学校へ行きましょう①",
+    "mean": null,
+    "total": 41,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000155,
+    "id_course": 104000004,
+    "name": "第4週 (2) - 学校へ行きましょう②",
+    "mean": null,
+    "total": 41,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000156,
+    "id_course": 104000004,
+    "name": "第4週 (3) - 学校へ行きましょう③",
+    "mean": null,
+    "total": 31,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000157,
+    "id_course": 104000004,
+    "name": "第4週 (4) - 仕事をしましょう",
+    "mean": null,
+    "total": 34,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000158,
+    "id_course": 104000004,
+    "name": "第4週 (5) - パソコンを使いましょう",
+    "mean": null,
+    "total": 25,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000159,
+    "id_course": 104000004,
+    "name": "第4週 (6) - メールをしましょう",
+    "mean": null,
+    "total": 22,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000160,
+    "id_course": 104000004,
+    "name": "第4週 (7) - 実戦問題",
+    "mean": null,
+    "total": 0,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000161,
+    "id_course": 104000004,
+    "name": "第5週 (1) - どういう関係ですか",
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000162,
+    "id_course": 104000004,
+    "name": "第5週 (2) - あいさつをしましょう",
+    "mean": null,
+    "total": 26,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000163,
+    "id_course": 104000004,
+    "name": "第5週 (3) - どんな人が好き？",
+    "mean": null,
+    "total": 36,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000164,
+    "id_course": 104000004,
+    "name": "第5週 (4) - 体の調子はどうですか",
+    "mean": null,
+    "total": 37,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000165,
+    "id_course": 104000004,
+    "name": "第5週 (5) - どんなようすですか①",
+    "mean": null,
+    "total": 40,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000166,
+    "id_course": 104000004,
+    "name": "第5週 (6) - どんなようすですか②",
+    "mean": null,
+    "total": 33,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000167,
+    "id_course": 104000004,
+    "name": "第5週 (7) - 実戦問題",
+    "mean": null,
+    "total": 0,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000168,
+    "id_course": 104000004,
+    "name": "第6週 (1) - かなり頑張っています",
+    "mean": null,
+    "total": 53,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000169,
+    "id_course": 104000004,
+    "name": "第6週 (2) - ちゃんと頑張っています",
+    "mean": null,
+    "total": 51,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000170,
+    "id_course": 104000004,
+    "name": "第6週 (3) - ますます頑張ります",
+    "mean": null,
+    "total": 46,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000171,
+    "id_course": 104000004,
+    "name": "第6週 (4) - 組み合わせの言葉",
+    "mean": null,
+    "total": 35,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000172,
+    "id_course": 104000004,
+    "name": "第6週 (5) - 意味がたくさんある動詞①",
+    "mean": null,
+    "total": 54,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000173,
+    "id_course": 104000004,
+    "name": "第6週 (6) - 意味がたくさんある動詞②",
+    "mean": null,
+    "total": 44,
+    "num_word": null,
+    "time_date": null
+  }
+]

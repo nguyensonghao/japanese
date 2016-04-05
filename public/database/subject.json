@@ -1,0 +1,2315 @@
+[
+  {
+    "name": "Hội thoại cơ bản 1",
+    "id": 101000001,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Về tôi và về bạn - Từ vựng",
+    "id": 101000002,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 6,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Về tôi và về bạn - Cụm từ",
+    "id": 101000003,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thứ tôi thích và thứ tôi không thích 1 - Từ",
+    "id": 101000004,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 24,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thứ tôi thích và thứ tôi không thích 1 - Cụ",
+    "id": 101000005,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 23,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nhóm từ cơ bản 1",
+    "id": 101000006,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 11,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hội thoại cơ bản 2",
+    "id": 101000007,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Số đếm 1",
+    "id": 101000008,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 11,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đi nhà hàng nào 1 - Từ vựng",
+    "id": 101000009,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đi nhà hàng nào 1 - Cụm từ",
+    "id": 101000010,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đưa ra ý kiến 1 - Từ vựng",
+    "id": 101000011,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đưa ra ý kiến 1 - Cụm từ",
+    "id": 101000012,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Động từ to be",
+    "id": 101000013,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 9,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nhóm từ cơ bản 2",
+    "id": 101000014,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 8,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hội thoại cơ bản 3 - Từ vựng",
+    "id": 101000015,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 5,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hội thoại cơ bản 3 - Cụm từ",
+    "id": 101000016,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đi nhà hàng nào 2 - Từ vựng",
+    "id": 101000017,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đi nhà hàng nào 2 - Cụm từ",
+    "id": 101000018,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Số đếm 2",
+    "id": 101000019,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Mua sắm 1 - Từ vựng",
+    "id": 101000020,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Mua sắm 1 - Cụm từ",
+    "id": 101000021,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 15,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thứ tôi thích và thứ tôi không thích 2 - T",
+    "id": 101000022,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 13,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thứ tôi thích và thứ tôi không thích 2 - C",
+    "id": 101000023,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 24,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Gia đình 1 - Từ vựng",
+    "id": 101000024,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 21,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Gia đình 1 - Cụm từ",
+    "id": 101000025,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 24,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nhóm từ căn bản 3",
+    "id": 101000026,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 7,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Mua sắm 2 - Từ vựng",
+    "id": 101000027,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 15,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Mua sắm 2 - Cụm từ",
+    "id": 101000028,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thứ tôi thích và thứ tôi không thích 3 - T",
+    "id": 101000029,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 11,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thứ tôi thích và thứ tôi không thích 3 - C",
+    "id": 101000030,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Gia đình 2 - Từ vựng",
+    "id": 101000031,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 6,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Gia đình 2 - Cụm từ",
+    "id": 101000032,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nói về người khác 1 - Từ vựng",
+    "id": 101000033,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nói về người khác 1 - Cụm từ",
+    "id": 101000034,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Số đếm 3",
+    "id": 101000035,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hỏi giờ giấc 1 - Từ vựng",
+    "id": 101000036,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 8,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hỏi giờ giấc 1 - Cụm từ",
+    "id": 101000037,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hỏi phương hướng 1 - Từ vựng",
+    "id": 101000038,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 15,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hỏi phương hướng 1 - Cụm từ",
+    "id": 101000039,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 25,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đi nhà hàng nào 3 - Từ vựng",
+    "id": 101000040,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 8,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đi nhà hàng nào 3 - Cụm từ",
+    "id": 101000041,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 15,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đưa ra ý kiến 2 - Từ vựng",
+    "id": 101000042,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đưa ra ý kiến 2 - Cụm từ",
+    "id": 101000043,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hỏi phương hướng 2 - Từ vựng",
+    "id": 101000044,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hỏi phương hướng 2 - Cụm từ",
+    "id": 101000045,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 9,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nói về người khác 2 - Từ vựng",
+    "id": 101000046,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 21,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nói về người khác 2 - Cụm từ",
+    "id": 101000047,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Khẩn cấp 1 - Từ vựng",
+    "id": 101000048,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 15,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Khẩn cấp 1 - Cụm từ",
+    "id": 101000049,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Trong nhà 1 - Từ vựng",
+    "id": 101000050,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 8,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Trong nhà 1 - Cụm từ",
+    "id": 101000051,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 8,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Trao quà 1 - Từ vựng",
+    "id": 101000052,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Trao quà 1 - Cụm từ",
+    "id": 101000053,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 22,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hỏi phương hướng 3 - Từ vựng",
+    "id": 101000054,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 9,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hỏi phương hướng 3 - Cụm từ",
+    "id": 101000055,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 15,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Gia đình 3 - Từ vựng",
+    "id": 101000056,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 13,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Gia đình 3 - Cụm từ",
+    "id": 101000057,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nói về người khác 3 - Từ vựng",
+    "id": 101000058,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nói về người khác 3 - Cụm từ",
+    "id": 101000059,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 21,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Khẩn cấp 2 - Từ vựng",
+    "id": 101000060,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 11,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Khẩn cấp 2 - Cụm từ",
+    "id": 101000061,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 14,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Du lịch 1 - Từ vựng",
+    "id": 101000062,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Du lịch 1 - Cụm từ",
+    "id": 101000063,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bạn muốn làm gì? 1 - Từ vựng",
+    "id": 101000064,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bạn muốn làm gì? 1 - Cụm từ",
+    "id": 101000065,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 22,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Ngôn ngữ trang trọng và thân mật 1 - Từ vự",
+    "id": 101000066,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 9,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Ngôn ngữ trang trọng và thân mật 1 - Cụm t",
+    "id": 101000067,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 6,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Số đếm 4",
+    "id": 101000068,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đưa ra ý kiến 3 - Từ vựng",
+    "id": 101000069,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 5,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Đưa ra ý kiến 3 - Cụm từ",
+    "id": 101000070,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 14,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Trong nhà 2 - Từ vựng",
+    "id": 101000071,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 11,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Trong nhà 2 - Cụm từ",
+    "id": 101000072,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 13,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Du lịch 2 - Từ vựng",
+    "id": 101000073,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 13,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Du lịch 2 - Cụm từ",
+    "id": 101000074,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Trao quà 2",
+    "id": 101000075,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Các bạn có kế hoạch gì không? 1",
+    "id": 101000076,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Ngày tháng 1 - Từ vựng",
+    "id": 101000077,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 13,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Ngày tháng 1 - Cụm từ",
+    "id": 101000078,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tương lai 1",
+    "id": 101000079,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Số đếm 5",
+    "id": 101000080,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hỏi thời gian 2",
+    "id": 101000081,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Mua sắm 3 - Từ vựng",
+    "id": 101000082,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 5,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Mua sắm 3 - Cụm từ",
+    "id": 101000083,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 11,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Ngôn ngữ trang trọng và thân mật 2",
+    "id": 101000084,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 9,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bạn muốn làm gì? 2 - Từ vựng",
+    "id": 101000085,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bạn muốn làm gì? 2 - Cụm từ",
+    "id": 101000086,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tương lai 2 - Từ vựng",
+    "id": 101000087,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 14,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tương lai 2 - Cụm từ",
+    "id": 101000088,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Các bạn có kế hoạch gì không? 2 - Từ vựng",
+    "id": 101000089,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 6,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Các bạn có kế hoạch gì không? 2 - Cụm từ",
+    "id": 101000090,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Du lịch 3 - Từ vựng",
+    "id": 101000091,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 6,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Du lịch 3 - Cụm từ",
+    "id": 101000092,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 7,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Ngày tháng 2 - Từ vựng",
+    "id": 101000093,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 8,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Ngày tháng 2 - Cụm từ",
+    "id": 101000094,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tương lai 3 - Từ vựng",
+    "id": 101000095,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 7,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tương lai 3 - Cụm từ",
+    "id": 101000096,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bạn muốn làm gì? 3 - Từ vựng",
+    "id": 101000097,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 9,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bạn muốn làm gì? 3 - Cụm từ",
+    "id": 101000098,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 15,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Các bạn có kế hoạch gì không? 3 - Từ vựng",
+    "id": 101000099,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 7,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Các bạn có kế hoạch gì không? 3 - Cụm từ",
+    "id": 101000100,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 9,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quá khứ 1 - Động từ 'to be'",
+    "id": 101000101,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 6,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quá khứ 2 - Luyện tập với động từ 'to be'",
+    "id": 101000102,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 23,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quá khứ 3 - động từ quy tắc",
+    "id": 101000103,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quá khứ 4 - Luyện tập với động từ quy tắc",
+    "id": 101000104,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 5,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quá khứ 5 - Luyện tập với động từ quy tắc",
+    "id": 101000105,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 13,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Ôn tập tổng quát 1",
+    "id": 101000106,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 9,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quá khứ 6 - Động từ bất quy tắc",
+    "id": 101000107,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quá khứ 7 - Luyện tập động từ bất quy tắc",
+    "id": 101000108,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 30,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quá khứ 8 - Thể phủ định",
+    "id": 101000109,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 15,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quá khứ 9 - Câu hỏi",
+    "id": 101000110,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quá khứ 10 - Ôn tập",
+    "id": 101000111,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Ôn tập tổng quát 2",
+    "id": 101000112,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quá khứ 11 - Ôn tập tổng quát",
+    "id": 101000113,
+    "id_course": 101000001,
+    "mean": null,
+    "total": 11,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "1-10",
+    "id": 101000114,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "11-20",
+    "id": 101000115,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "21-50",
+    "id": 101000116,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 30,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "51-100",
+    "id": 101000117,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "101-150",
+    "id": 101000118,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "151-200",
+    "id": 101000119,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "201-250",
+    "id": 101000120,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "251-300",
+    "id": 101000121,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "301-350",
+    "id": 101000122,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "351-400",
+    "id": 101000123,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "401-450",
+    "id": 101000124,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "451-500",
+    "id": 101000125,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "501-550",
+    "id": 101000126,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "551-600",
+    "id": 101000127,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "601-650",
+    "id": 101000128,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "651-700",
+    "id": 101000129,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "701-750",
+    "id": 101000130,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "751-800",
+    "id": 101000131,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "801-850",
+    "id": 101000132,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "851-900",
+    "id": 101000133,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "901-950",
+    "id": 101000134,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "951-1000",
+    "id": 101000135,
+    "id_course": 101000002,
+    "mean": null,
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thức ăn và Trồng trọt",
+    "id": 101000136,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Toán và Tin học",
+    "id": 101000137,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Năng lượng",
+    "id": 101000138,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tâm linh",
+    "id": 101000139,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Khoa học và Nghiên cứu",
+    "id": 101000140,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Lịch sử cổ đại",
+    "id": 101000141,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Bệnh tật",
+    "id": 101000142,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Chuyên ngành và Học thuật",
+    "id": 101000143,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Chiến tranh và Quân sự",
+    "id": 101000144,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tài sản và Giai cấp xã hội",
+    "id": 101000145,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Tài chính và Thương mại",
+    "id": 101000146,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Chính trị",
+    "id": 101000147,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Công lý",
+    "id": 101000148,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thế giới ngầm",
+    "id": 101000149,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Gia đình và Bạn bè",
+    "id": 101000150,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Sự say mê và Cảm xúc",
+    "id": 101000151,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Vấn đề xã hội",
+    "id": 101000152,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Điều tra hình sự",
+    "id": 101000153,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Nghệ thuật và Văn học",
+    "id": 101000154,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Giải trí",
+    "id": 101000155,
+    "id_course": 101000003,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Từ vựng thông dụng trong kinh doanh",
+    "id": 101000156,
+    "id_course": 101000004,
+    "mean": null,
+    "total": 35,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thuật ngữ viết tắt trong kinh doanh",
+    "id": 101000157,
+    "id_course": 101000004,
+    "mean": null,
+    "total": 25,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Thành ngữ kinh doanh",
+    "id": 101000158,
+    "id_course": 101000004,
+    "mean": null,
+    "total": 24,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Từ vựng về Tài chính",
+    "id": 101000159,
+    "id_course": 101000004,
+    "mean": null,
+    "total": 47,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Từ vựng về Công nghệ thông tin",
+    "id": 101000160,
+    "id_course": 101000004,
+    "mean": null,
+    "total": 49,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Từ vựng về Mậu dịch quốc tế",
+    "id": 101000161,
+    "id_course": 101000004,
+    "mean": null,
+    "total": 47,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 1",
+    "id": 101000162,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 2",
+    "id": 101000163,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 3",
+    "id": 101000164,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 4",
+    "id": 101000165,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 5",
+    "id": 101000166,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 6",
+    "id": 101000167,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 7",
+    "id": 101000168,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 8",
+    "id": 101000169,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 9",
+    "id": 101000170,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 10",
+    "id": 101000171,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 11",
+    "id": 101000172,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 12",
+    "id": 101000173,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 13",
+    "id": 101000174,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 14",
+    "id": 101000175,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 15",
+    "id": 101000176,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 16",
+    "id": 101000177,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 17",
+    "id": 101000178,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 18",
+    "id": 101000179,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 19",
+    "id": 101000180,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 20",
+    "id": 101000181,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 21",
+    "id": 101000182,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 22",
+    "id": 101000183,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 23",
+    "id": 101000184,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 24",
+    "id": 101000185,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 25",
+    "id": 101000186,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 26",
+    "id": 101000187,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 27",
+    "id": 101000188,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 28",
+    "id": 101000189,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Part 29",
+    "id": 101000190,
+    "id_course": 101000005,
+    "mean": null,
+    "total": 10,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Contracts",
+    "id": 101000191,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 14,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Marketing",
+    "id": 101000192,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 14,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Warranties",
+    "id": 101000193,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 11,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Business planning",
+    "id": 101000194,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 9,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Conferences /'kɔnfərəns/",
+    "id": 101000195,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Computers",
+    "id": 101000196,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 15,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Office Technology",
+    "id": 101000197,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Office Procedures",
+    "id": 101000198,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Electronics (điện tử)",
+    "id": 101000199,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Correspondence (quan hệ thư từ)",
+    "id": 101000200,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 14,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Job Advertising and Recruiting",
+    "id": 101000201,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 15,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Applying and Interviewing (xin việc và phỏng vấn)",
+    "id": 101000202,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hiring and Training (mướn và đào tạo)",
+    "id": 101000203,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 14,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Salaries and benefits (lương và trợ cấp)",
+    "id": 101000204,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Promotions, Pensions and Awards",
+    "id": 101000205,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 24,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Shopping",
+    "id": 101000206,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Ordering Supplies (phiếu tiếp tế)",
+    "id": 101000207,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Shipping",
+    "id": 101000208,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Invoices (Hóa đơn)",
+    "id": 101000209,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Inventory (kiểm kê hoàng hóa)",
+    "id": 101000210,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Banking (Ngành ngân hàng)",
+    "id": 101000211,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Accounting (thanh toán)",
+    "id": 101000212,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Investments (đầu tư)",
+    "id": 101000213,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Taxes (nộp thuế)",
+    "id": 101000214,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Financial Statements (báo cáo tài chính)",
+    "id": 101000215,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Property and departments (Trụ sở & Các phòng b",
+    "id": 101000216,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Board Meetings and committees (cuộc họp hội đồng q",
+    "id": 101000217,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Quality control (kiểm soát chất lượng)",
+    "id": 101000218,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Product Development (phát triển sản phẩm)",
+    "id": 101000219,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Renting and Leasing (thuê và cho thuê)",
+    "id": 101000220,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Selecting a Restaurant (chọn lựa nhà hàng)",
+    "id": 101000221,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Eating out (ăn bên ngoài)",
+    "id": 101000222,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Ordering Lunch (gọi món ăn trưa)",
+    "id": 101000223,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Cooking as a career (Nghề nấu ăn)",
+    "id": 101000224,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Events (sự kiện)",
+    "id": 101000225,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "General Travel (du lịch tổng quan)",
+    "id": 101000226,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Airlines (hàng không)",
+    "id": 101000227,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Trains (tàu hỏa)",
+    "id": 101000228,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hotels (khách sạn)",
+    "id": 101000229,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Car Rentals (cho thuê xe)",
+    "id": 101000230,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Movies (Phim ảnh)",
+    "id": 101000231,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Theater (nhà hát)",
+    "id": 101000232,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Music (âm nhạc)",
+    "id": 101000233,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Museums (Bảo tàng)",
+    "id": 101000234,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 19,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Media (Phương tiện truyền thông)",
+    "id": 101000235,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 14,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Doctor's Office",
+    "id": 101000236,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Dentist's Office",
+    "id": 101000237,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Health Insurance ( Bảo hiểm sức khoẻ )",
+    "id": 101000238,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Hospitals",
+    "id": 101000239,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Pharmacy ('fɑ:məsi) dược khoa",
+    "id": 101000240,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 16,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Grammar (V + V-ing) Các động từ theo sau là Ving",
+    "id": 101000241,
+    "id_course": 101000006,
+    "mean": null,
+    "total": 25,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Holidays",
+    "id": 101000242,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 27,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Relationships",
+    "id": 101000243,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 26,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Technology",
+    "id": 101000244,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 28,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Sport",
+    "id": 101000245,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 29,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Food",
+    "id": 101000246,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 24,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Education",
+    "id": 101000247,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 25,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Work",
+    "id": 101000248,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 27,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Health",
+    "id": 101000249,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 26,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Books and Films",
+    "id": 101000250,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 35,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Accommodation",
+    "id": 101000251,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 29,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Clothes and Fashion",
+    "id": 101000252,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 30,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Peole- personality and character",
+    "id": 101000253,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 26,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Business",
+    "id": 101000254,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 28,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "People- Physical appearance",
+    "id": 101000255,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 30,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Towns and cities",
+    "id": 101000256,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 26,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Music",
+    "id": 101000257,
+    "id_course": 101000007,
+    "mean": null,
+    "total": 25,
+    "num_word": null,
+    "time_date": null
+  }
+]

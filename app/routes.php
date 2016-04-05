@@ -40,55 +40,13 @@ Route::get('create-database', 'AutoSearchController@create_image_to_database');
 
 Route::get('crawler', 'AutoSearchController@crawler_image_download');
 
+Route::get('subject', 'AutoSearchController@crawler_image_download_subject');
+
 Route::get('crawler-url-download', 'AutoSearchController@get_list_url_download');
 
 Route::controller('convert', 'ConvertDataController');
 
 Route::get('convert', 'ConvertDataController@import_data_base');
-
-Route::get('test', function () {
-	ini_set('max_execution_time', 600000000);
-	$file_name = public_path() . '/database/data.json';
-	$list = json_decode(file_get_contents($file_name));
-	$size = count($list);
-	$result = array();
-	for ($i = 0; $i < $size; $i++) {
-		if ($list[$i]->id_course == 101007) {
-			array_push($result, $list[$i]);
-		}
-	}
-
-	echo json_encode($result);
-});
-
-Route::get('demo', function () {
-	ini_set('max_execution_time', 600000000);
-	$file_name = public_path() . '/database/data.json';
-	$list = json_decode(file_get_contents($file_name));
-	$size = count($list);
-	$index = 0;
-	for ($i = 0; $i < $size; $i++) {
-		$word_id = $list[$i]->id_word;
-		if ($word_id <= 101001558) {
-			$list[$i]->id_course = 101001;
-			++$index;
-		} else if ($word_id > 101001558 && $word_id <= 101002558) {
-			$list[$i]->id_course = 101002;
-		} else if ($word_id > 101002558 && $word_id <= 101002956) {
-			$list[$i]->id_course = 101003;
-		} else if ($word_id > 101002956 && $word_id <= 101003183) {
-			$list[$i]->id_course = 101004;
-		} else if ($word_id > 101003183 && $word_id <= 101003483) {
-			$list[$i]->id_course = 101005;
-		} else if ($word_id > 101003483 && $word_id <= 101004358) {
-			$list[$i]->id_course = 101006;
-		} else {
-			$list[$i]->id_course = 101007;
-		}
-	}
-
-	echo json_encode($list);
-});
 
 Route::controller('japanese', 'JapaneseController');
 
@@ -100,6 +58,75 @@ Route::get('japanese-import', 'JapaneseController@import_data');
 
 Route::get('japanese-get-url', 'JapaneseController@get_url_download');
 
-Route::get('test1', function () {
-	echo DB::table('word_image')->where('status', -2)->count();
+Route::get('japanese-crawler', 'JapaneseController@download_image');
+
+Route::get('demo', 'AutoSearchController@test');
+
+Route::controller('korea', 'KoreaControler');
+
+Route::get('korea-getdata', 'KoreaControler@get_data_from_website');
+
+Route::get('korea-test', 'KoreaControler@test');
+
+Route::get('korea-convert', 'KoreaControler@convert_data');
+
+Route::get('korea-import', 'KoreaControler@import_data');
+
+Route::get('korea-get-url', 'KoreaControler@get_url_download');
+
+Route::get('korea-get-group', 'KoreaControler@get_group_from_website');
+
+Route::get('korea-test3', 'KoreaControler@test3');
+
+Route::controller('toic', 'ToicController');
+
+Route::get('toic-import', 'ToicController@import_data_base');
+
+Route::get('toic-get-url', 'ToicController@get_url_download');
+
+Route::get('phonetic', 'KoreaControler@get_phonectic');
+
+Route::get('phonetic2', 'KoreaControler@get_phonectic_2');
+
+Route::get('get-phonetic/{query}', 'KoreaControler@get_phonetic_with_google');
+
+Route::controller('chinese', 'ChineseController');
+
+Route::get('chinese-getdata', 'ChineseController@get_data');
+
+Route::get('kanji', 'ChineseController@get_kanji');
+
+Route::get('kanji-test', 'ChineseController@get_kanji_test');
+
+Route::get('chinese-subject', 'ChineseController@get_subject');
+
+Route::get('chinese-list-subject', 'ChineseController@get_list_subject');
+
+Route::get('chinese-import', 'ChineseController@import_data');
+
+Route::get('chinese-get-url', 'ChineseController@get_url_download');
+
+Route::get('test', 'KoreaControler@test1');
+
+Route::get('download-subject', 'AutoSearchController@download');
+
+Route::get('demo2', function () {
+	$list_data = file_get_contents(public_path() . '/database/chinese/subject 2.json');
+	$list_data = json_decode($list_data);
+	$list_word = file_get_contents(public_path() . '/database/chinese/215thu.json');
+	$list_word = json_decode($list_word);
+	for ($i = 0; $i < count($list_data); $i++) {
+		$k = 0;
+		$subject_id = $list_data[$i]->id;
+		for ($j = 0; $j < count($list_word); $j++) {
+			if ($subject_id == $list_word[$j]->id_subject) {
+				$k++;
+			}
+		}
+		$list_data[$i]->total = $k;
+	}
+
+	echo json_encode($list_data);
 });
+
+  

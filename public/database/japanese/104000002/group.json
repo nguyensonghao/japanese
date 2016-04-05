@@ -1,0 +1,452 @@
+[  
+  {
+    "id": 104000028,
+    "id_course": 104000002,
+    "name": "はじめまして",
+    "mean": "Bài 1",
+    "total": 60,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000029,
+    "id_course": 104000002,
+    "name": "ほんのきもちです",
+    "mean": "Bài 2",
+    "total": 46,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000030,
+    "id_course": 104000002,
+    "name": "これをください",
+    "mean": "Bài 3",
+    "total": 43,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000031,
+    "id_course": 104000002,
+    "name": "そちらは何時から何時までですか",
+    "mean": "Bài 4",
+    "total": 60,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000032,
+    "id_course": 104000002,
+    "name": "甲子園へいきますか",
+    "mean": "Bài 5",
+    "total": 56,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000033,
+    "id_course": 104000002,
+    "name": "いっしょうにいきませんか",
+    "mean": "Bài 6",
+    "total": 56,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000034,
+    "id_course": 104000002,
+    "name": "ごめんください",
+    "mean": "Bài 7",
+    "total": 44,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000035,
+    "id_course": 104000002,
+    "name": "そろそろしつれいします",
+    "mean": "Bài 8",
+    "total": 57,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000036,
+    "id_course": 104000002,
+    "name": "ざんねんです",
+    "mean": "Bài 9",
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000037,
+    "id_course": 104000002,
+    "name": "チリソースはありませんか",
+    "mean": "Bài 10",
+    "total": 47,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000038,
+    "id_course": 104000002,
+    "name": " これおねがいします",
+    "mean": "Bài 11",
+    "total": 56,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000039,
+    "id_course": 104000002,
+    "name": " お祭りはどうでしたか",
+    "mean": "Bài 12",
+    "total": 47,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000040,
+    "id_course": 104000002,
+    "name": " べつべつにお願いします",
+    "mean": "Bài 13",
+    "total": 39,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000041,
+    "id_course": 104000002,
+    "name": "うめだまで行ってください",
+    "mean": "Bài 14",
+    "total": 39,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000042,
+    "id_course": 104000002,
+    "name": "ご家族は？",
+    "mean": "Bài 15",
+    "total": 28,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000043,
+    "id_course": 104000002,
+    "name": "使い方を教えてください",
+    "mean": "Bài 16",
+    "total": 48,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000044,
+    "id_course": 104000002,
+    "name": "どうしましたか",
+    "mean": "Bài 17",
+    "total": 33,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000045,
+    "id_course": 104000002,
+    "name": "しゅみは何ですか",
+    "mean": "Bài 18",
+    "total": 29,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000046,
+    "id_course": 104000002,
+    "name": "ダイエットは明日からします",
+    "mean": "Bài 19",
+    "total": 29,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000047,
+    "id_course": 104000002,
+    "name": "夏安みはどうするの",
+    "mean": "Bài 20",
+    "total": 28,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000048,
+    "id_course": 104000002,
+    "name": "わたしもそう思います",
+    "mean": "Bài 21",
+    "total": 36,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000049,
+    "id_course": 104000002,
+    "name": "どんな　アパトーが　いいですか。",
+    "mean": "Bài 22",
+    "total": 24,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000050,
+    "id_course": 104000002,
+    "name": "どうやって　行きますか。",
+    "mean": "Bài 23",
+    "total": 32,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000051,
+    "id_course": 104000002,
+    "name": "手伝って　くれますか。",
+    "mean": "Bài 24",
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000052,
+    "id_course": 104000002,
+    "name": "いろいろ　お世話に　なりました",
+    "mean": "Bài 25",
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000053,
+    "id_course": 104000002,
+    "name": "どこに　ごみを出したら　いいですか。",
+    "mean": "Bài 26",
+    "total": 47,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000054,
+    "id_course": 104000002,
+    "name": " 何でも　作れるんですね。",
+    "mean": "Bài 27",
+    "total": 53,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000055,
+    "id_course": 104000002,
+    "name": "お茶でも　飲みながら。。。",
+    "mean": "Bài 28",
+    "total": 48,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000056,
+    "id_course": 104000002,
+    "name": "忘れ物を　して　しまったんです。",
+    "mean": "Bài 29",
+    "total": 47,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000057,
+    "id_course": 104000002,
+    "name": "チケットを　予約して　おきます。",
+    "mean": "Bài 30",
+    "total": 55,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000058,
+    "id_course": 104000002,
+    "name": "インタネットを　始めようと　思っています。",
+    "mean": "Bài 31",
+    "total": 42,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000059,
+    "id_course": 104000002,
+    "name": "病気かも　しれません。",
+    "mean": "Bài 32",
+    "total": 57,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000060,
+    "id_course": 104000002,
+    "name": "これは　どういう　意味ですか。",
+    "mean": "Bài 33",
+    "total": 54,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000061,
+    "id_course": 104000002,
+    "name": "する　とおりに して　ください。",
+    "mean": "Bài 34",
+    "total": 51,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000062,
+    "id_course": 104000002,
+    "name": "旅行者へ　行けば　わかります。",
+    "mean": "Bài 35",
+    "total": 50,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000063,
+    "id_course": 104000002,
+    "name": "あたまと　からだを　使うように　して　います。",
+    "mean": "Bài 36",
+    "total": 49,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000064,
+    "id_course": 104000002,
+    "name": "海を　埋め立てて　造られました。",
+    "mean": "Bài 37",
+    "total": 52,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000065,
+    "id_course": 104000002,
+    "name": "片づけるのが　すきなんです。",
+    "mean": "Bài 38",
+    "total": 45,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000066,
+    "id_course": 104000002,
+    "name": "遅れて、　すみません。",
+    "mean": "Bài 39",
+    "total": 45,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000067,
+    "id_course": 104000002,
+    "name": "ともだちが　できたかどうか　心配です。",
+    "mean": "Bài 40",
+    "total": 62,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000068,
+    "id_course": 104000002,
+    "name": " にもつを　あずかって　いただけませんか",
+    "mean": "Bài 41",
+    "total": 53,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000069,
+    "id_course": 104000002,
+    "name": "ボーナスは　何に　使いますか。",
+    "mean": "Bài 42",
+    "total": 53,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000070,
+    "id_course": 104000002,
+    "name": "やきしそうですね。",
+    "mean": "Bài 43",
+    "total": 29,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000071,
+    "id_course": 104000002,
+    "name": "この　写真みたいに　して　ください。",
+    "mean": "Bài 44",
+    "total": 41,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000072,
+    "id_course": 104000002,
+    "name": "いっしょうけんめい　練習したのに",
+    "mean": "Bài 45",
+    "total": 34,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000073,
+    "id_course": 104000002,
+    "name": "もうすぐ　着く　はずです。",
+    "mean": "Bài 46",
+    "total": 31,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000074,
+    "id_course": 104000002,
+    "name": "こんやくしたそうです。",
+    "mean": "Bài 47",
+    "total": 30,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000075,
+    "id_course": 104000002,
+    "name": "休ませて　いただけませんか。",
+    "mean": "Bài 48",
+    "total": 32,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000076,
+    "id_course": 104000002,
+    "name": "よろしく　お伝え　ください。",
+    "mean": "Bài 49",
+    "total": 44,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000077,
+    "id_course": 104000002,
+    "name": "心から　かんしゃいたします。",
+    "mean": "Bài 50",
+    "total": 32,
+    "num_word": null,
+    "time_date": null
+  }
+]

@@ -1,8 +1,5 @@
 <?php 
 
-require 'vendor/autoload.php';
-use Intervention\Image\ImageManager;
-
 class SearchImageController extends BaseController {
 	public $image;
 	public $sqlite;

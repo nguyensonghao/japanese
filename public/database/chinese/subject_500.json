@@ -1,0 +1,128 @@
+[
+  {
+    "name": "A và B",
+    "id": 102000193,
+    "id_course": 102000003,
+    "mean": null,
+    "total": 33,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "C",
+    "id": 102000194,
+    "id_course": 102000003,
+    "mean": null,
+    "total": 25,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "D",
+    "id": 102000195,
+    "id_course": 102000003,
+    "mean": null,
+    "total": 43,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "E, F và G",
+    "id": 102000196,
+    "id_course": 102000003,
+    "mean": null,
+    "total": 56,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "H",
+    "id": 102000197,
+    "id_course": 102000003,
+    "mean": null,
+    "total": 27,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "J",
+    "id": 102000198,
+    "id_course": 102000003,
+    "mean": null,
+    "total": 43,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "K và L",
+    "id": 102000199,
+    "id_course": 102000003,
+    "mean": null,
+    "total": 45,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "M và N",
+    "id": 102000200,
+    "id_course": 102000003,
+    "mean": null,
+    "total": 40,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "P, Q và R",
+    "id": 102000201,
+    "id_course": 102000003,
+    "mean": null,
+    "total": 34,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "S",
+    "id": 102000202,
+    "id_course": 102000003,
+    "mean": null,
+    "total": 43,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "T và W",
+    "id": 102000203,
+    "id_course": 102000003,
+    "mean": null,
+    "total": 42,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "X",
+    "id": 102000204,
+    "id_course": 102000003,
+    "mean": null,
+    "total": 33,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Y",
+    "id": 102000205,
+    "id_course": 102000003,
+    "mean": null,
+    "total": 47,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "name": "Z",
+    "id": 102000206,
+    "id_course": 102000003,
+    "mean": null,
+    "total": 48,
+    "num_word": null,
+    "time_date": null
+  }
+]

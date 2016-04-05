@@ -1,0 +1,245 @@
+[
+  {
+    "id": 104000001,
+    "id_course": 104000001,
+    "name": "家",
+    "mean": "Nhà",
+    "total": 12,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000002,
+    "id_course": 104000001,
+    "name": "日用品",
+    "mean": "Đồ dùng hàng ngày",
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000003,
+    "id_course": 104000001,
+    "name": "リビングルーム",
+    "mean": "Phòng khách",
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000004,
+    "id_course": 104000001,
+    "name": "キッチン、台所",
+    "mean": "Nhà bếp",
+    "total": 23,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000005,
+    "id_course": 104000001,
+    "name": "キッチン、台所　2",
+    "mean": "Nhà bếp　2",
+    "total": 18,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000006,
+    "id_course": 104000001,
+    "name": "ダイニング、ルーム",
+    "mean": "Phòng ăn",
+    "total": 26,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000007,
+    "id_course": 104000001,
+    "name": "寝室",
+    "mean": "Phòng ngủ",
+    "total": 22,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000008,
+    "id_course": 104000001,
+    "name": "バスルーム、浴室",
+    "mean": "Phòng tắm",
+    "total": 15,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000009,
+    "id_course": 104000001,
+    "name": "バスルーム、浴室　2",
+    "mean": "Phòng tắm 2",
+    "total": 25,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000010,
+    "id_course": 104000001,
+    "name": "都市",
+    "mean": "Đô thị",
+    "total": 23,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000011,
+    "id_course": 104000001,
+    "name": "農場",
+    "mean": "Nông trường",
+    "total": 20,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000012,
+    "id_course": 104000001,
+    "name": "ビジネス",
+    "mean": "Công việc",
+    "total": 22,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000013,
+    "id_course": 104000001,
+    "name": "婦人服",
+    "mean": "Quần áo phụ nữ",
+    "total": 28,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000014,
+    "id_course": 104000001,
+    "name": "男性用の衣類",
+    "mean": "Quần áo nam giới",
+    "total": 33,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000015,
+    "id_course": 104000001,
+    "name": "野菜、牛（家畜）",
+    "mean": "Gia súc",
+    "total": 33,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000016,
+    "id_course": 104000001,
+    "name": "昆虫",
+    "mean": "Côn trùng",
+    "total": 31,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000017,
+    "id_course": 104000001,
+    "name": "鳥",
+    "mean": "Loài chim",
+    "total": 29,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000018,
+    "id_course": 104000001,
+    "name": "哺乳類",
+    "mean": "Động vật có vú",
+    "total": 32,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000019,
+    "id_course": 104000001,
+    "name": "爬虫類及び両生類",
+    "mean": "Loài bò sát và loài lưỡng cư",
+    "total": 15,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000020,
+    "id_course": 104000001,
+    "name": "アフリカの動物",
+    "mean": "Động vật Châu Phi ",
+    "total": 25,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000021,
+    "id_course": 104000001,
+    "name": "植物",
+    "mean": "Thực vật",
+    "total": 26,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000022,
+    "id_course": 104000001,
+    "name": "野菜",
+    "mean": "Rau củ",
+    "total": 28,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000023,
+    "id_course": 104000001,
+    "name": "フルーツ",
+    "mean": "Trái cây",
+    "total": 41,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000024,
+    "id_course": 104000001,
+    "name": "天気",
+    "mean": "Thời tiết",
+    "total": 17,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000025,
+    "id_course": 104000001,
+    "name": "宇宙",
+    "mean": "Vũ trụ",
+    "total": 22,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000026,
+    "id_course": 104000001,
+    "name": "風景",
+    "mean": "Phong cảnh",
+    "total": 15,
+    "num_word": null,
+    "time_date": null
+  },
+  {
+    "id": 104000027,
+    "id_course": 104000001,
+    "name": "色",
+    "mean": "Màu sắc",
+    "total": 14,
+    "num_word": null,
+    "time_date": null
+  }
+]
